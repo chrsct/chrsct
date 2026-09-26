@@ -45,7 +45,7 @@ I build and break things on a minimal, bleeding-edge Linux environment.
 | Component | Specification |
 | :--- | :--- |
 | **Laptop** | HP Laptop 15-Fc1058AU |
-| **OS / Kernel** | Arch Linux x86_64 (`Linux 7.1.8-zen1-3-zen`) |
+| **OS / Kernel** | Arch Linux x86_64 (`Linux 7.2.6-zen2-1-zen`) |
 | **WM** | Hyprland 0.56.2 (Wayland) |
 | **CPU** | AMD Ryzen 5 7535HS (12) @ 4.55 GHz |
 | **GPU** | AMD Radeon 660M [Integrated] |

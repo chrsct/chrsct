@@ -9,7 +9,7 @@ I just graduated Grade 12 (April 23, 2026!) and am fully focused on leveling up 
 ## Featured Project
 
 ### [lens-shot](https://aur.archlinux.org/packages/lens-shot) 
-*An open-source utility built for Linux users, officially published and maintained in the **Arch Linux User Repository (AUR)**.*
+*An open-source utility that acts as a google lens but built for Linux users, officially published and maintained in the **Arch Linux User Repository (AUR)**.*
 * **Install it:** `yay -S lens-shot`
 
 ---
@@ -45,7 +45,7 @@ I build and break things on a minimal, bleeding-edge Linux environment.
 | Component | Specification |
 | :--- | :--- |
 | **Laptop** | HP Laptop 15-Fc1058AU |
-| **OS / Kernel** | Arch Linux x86_64 (`Linux 7.2.6-zen2-1-zen`) |
+| **OS / Kernel** | Arch Linux x86_64 (`Linux 7.2.11-zen1-1-zen`) |
 | **WM** | Hyprland 0.56.2 (Wayland) |
 | **CPU** | AMD Ryzen 5 7535HS (12) @ 4.55 GHz |
 | **GPU** | AMD Radeon 660M [Integrated] |
@@ -56,7 +56,7 @@ I build and break things on a minimal, bleeding-edge Linux environment.
 
 ## Connect with Me
 
-* **GitHub:** [@crisxdwars](https://github.com/crisxdwars)
+* **GitHub:** [@chrsct](https://github.com/chrsct)
 * **Facebook:** [Christian Talurong](https://www.facebook.com/christian.talurong.2025)
 
 *"I love turning complex ideas into simple, beautiful designs."*
